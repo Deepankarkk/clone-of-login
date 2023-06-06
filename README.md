@@ -1,2 +1,2 @@
-# clone-of-login
-login aap
+# Responsive-Registration-Form
+Responsive Registration Form using HTML CSS and JavaScript
